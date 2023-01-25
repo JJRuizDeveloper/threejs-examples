@@ -1,0 +1,11 @@
+Model Information:
+* title:	Outbuilding
+* source:	https://sketchfab.com/3d-models/outbuilding-26d9395801dd49629a49a2886d6c7257
+* author:	quizzes (https://sketchfab.com/quizzes)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Outbuilding" (https://sketchfab.com/3d-models/outbuilding-26d9395801dd49629a49a2886d6c7257) by quizzes (https://sketchfab.com/quizzes) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
