@@ -36,7 +36,7 @@ renderer.outputEncoding = THREE.sRGBEncoding;
 renderer.toneMapping = THREE.ACESFilmicToneMapping;
 renderer.toneMappingExposure = 4;
 
-let car;
+let myModel;
 
 rgbeLoader.load('./assets/MR_INT-005_WhiteNeons_NAD.hdr', function(texture) {
     texture.mapping = THREE.EquirectangularReflectionMapping;
@@ -45,13 +45,13 @@ rgbeLoader.load('./assets/MR_INT-005_WhiteNeons_NAD.hdr', function(texture) {
     gltfLoader.load('./assets/scene.gltf', function(gltf) {
         const model = gltf.scene;
         scene.add(model);
-        car = model;
+        myModel = model;
     });
 });
 
 function animate(time) {
- /*   if(car)
-        car.rotation.y = - time / 2000;*/
+ /*   if(myModel)
+        myModel.rotation.y = - time / 2000;*/
     renderer.render(scene, camera);
 }
 
